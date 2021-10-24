@@ -1,6 +1,6 @@
 [build]
-  publish = "exampleSite/public"
-  command = "cd exampleSite && hugo --minify --gc --themesDir ../.."
+  publish = "content/public"
+  command = "cd content && hugo --minify --gc --themesDir ../.."
   
 [build.environment]
   HUGO_VERSION = "0.86.0"
