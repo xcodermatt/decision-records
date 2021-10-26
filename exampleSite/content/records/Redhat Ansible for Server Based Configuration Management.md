@@ -6,7 +6,7 @@ ownership: Apps & Tools
 status: Active
 stack: Applications & Tooling
 type: Decision
-tags: ['#iac','#devops','#dsc','#coding'] 
+tags: ['iac','devops','dsc','coding'] 
 date: 2021-10-24T11:01:10+01:00
 draft: false
 image: "images/configman.jpg"
